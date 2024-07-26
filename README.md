@@ -2,11 +2,6 @@
   Simple blog
 </h1>
 
-<p align="center">
-  <a href="https://www.figma.com/design/e1jnBbVuizTV1dfApSZMW0/SPM---Design-system-V2.1?node-id=1374-213518">
-    <img src="https://user-images.githubusercontent.com/74589180/130054619-f320b7f8-d26c-49ae-8ff6-70ef2bd4b323.png" alt="" height="350px" />
-  </a>
-</p>
 <div align="center">
   <h3>Tech Stack</h3>
   <a href="https://reactjs.org/">
