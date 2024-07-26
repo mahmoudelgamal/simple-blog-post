@@ -14,7 +14,7 @@
     <img alt="TailwindCss" src="https://cdn.svgporn.com/logos/react-query-icon.svg" width="40" />
     </a>
 
-    <a href="https://www.typescriptlang.org/">
+  <a href="https://www.typescriptlang.org/">
     <img alt="TypeScript" src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="40" />
     </a>
     <a href="http://eslint.org/">
